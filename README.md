@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Holm-Devoteam
-- 👀 I’m interested in IaC, Cloud & DevOps and Eating
+- 👀 I’m interested in IaC, Cloud & DevOps
